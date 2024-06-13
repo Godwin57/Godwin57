@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godwin57&label=Profile%20views&color=0e75b6&style=flat" alt="godwin57" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godwin57" alt="godwin57" /></a> </p>
-
 - 🌱 I’m currently learning **Nextjs, and looking to delve into backend development**
 
 - 👯 I’m looking to collaborate on **frontend projects using Reactjs, Nextjs, JavaScript or Typescript and Tailwindcss**
@@ -28,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godwin57&show_icons=true&locale=en&layout=compact" alt="godwin57" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godwin57&show_icons=true&locale=en" alt="godwin57" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godwin57&" alt="godwin57" /></p>
