@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godwin57&label=Profile%20views&color=0e75b6&style=flat" alt="godwin57" /> </p>
 
-- 🌱 I’m currently learning **Nextjs, and looking to delve into backend development**
+- 🌱 I’m currently learning more about **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **frontend projects using Reactjs, Nextjs, JavaScript or Typescript and Tailwindcss**
+- 👯 I’m looking to collaborate on **fullstack and mobile projects using Reactjs, Nextjs, React Native, JavaScript or Typescript and Tailwindcss**
 
 - 👨‍💻 All of my projects are available at [github.com/Godwin57](github.com/Godwin57)
 
-- 💬 Ask me about **Reactjs, Nextjs, JavaScript, Typescript and other frontend frameworks, libraries or languages.**
+- 💬 Ask me about **React, Nextjs, JavaScript, Typescript and other frontend frameworks, libraries or languages.**
 
 - 📫 How to reach me **godwinemeribe23@gmail.com**
 
